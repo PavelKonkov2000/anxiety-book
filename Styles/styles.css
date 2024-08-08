@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+button {
+    display: block;
+
+
+  cursor: pointer;
+
+
+
+}
+
+div {
+
+    
+    justify-content: center;
+    align-items: center;
+}
+
+#pages {
+    height: 500px
+}
+
+#flagimage {
+    height: 40px;
+}
